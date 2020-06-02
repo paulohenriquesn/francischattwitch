@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paulohenriquesn/francischattwitch/static/css/main.3452e7a4.chunk.css",
+    "main.js": "/paulohenriquesn/francischattwitch/static/js/main.a5f3aa1e.chunk.js",
+    "main.js.map": "/paulohenriquesn/francischattwitch/static/js/main.a5f3aa1e.chunk.js.map",
+    "runtime-main.js": "/paulohenriquesn/francischattwitch/static/js/runtime-main.c4a83b17.js",
+    "runtime-main.js.map": "/paulohenriquesn/francischattwitch/static/js/runtime-main.c4a83b17.js.map",
+    "static/js/2.093396a1.chunk.js": "/paulohenriquesn/francischattwitch/static/js/2.093396a1.chunk.js",
+    "static/js/2.093396a1.chunk.js.map": "/paulohenriquesn/francischattwitch/static/js/2.093396a1.chunk.js.map",
+    "index.html": "/paulohenriquesn/francischattwitch/index.html",
+    "precache-manifest.536ab51ccf105d2c4ab2732bab69e2b6.js": "/paulohenriquesn/francischattwitch/precache-manifest.536ab51ccf105d2c4ab2732bab69e2b6.js",
+    "service-worker.js": "/paulohenriquesn/francischattwitch/service-worker.js",
+    "static/css/main.3452e7a4.chunk.css.map": "/paulohenriquesn/francischattwitch/static/css/main.3452e7a4.chunk.css.map",
+    "static/js/2.093396a1.chunk.js.LICENSE.txt": "/paulohenriquesn/francischattwitch/static/js/2.093396a1.chunk.js.LICENSE.txt",
+    "static/media/chat.png": "/paulohenriquesn/francischattwitch/static/media/chat.d46843af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4a83b17.js",
+    "static/js/2.093396a1.chunk.js",
+    "static/css/main.3452e7a4.chunk.css",
+    "static/js/main.a5f3aa1e.chunk.js"
+  ]
+}
